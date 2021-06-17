@@ -1,8 +1,6 @@
 #include <stdio.h>
 
 int fibonacci(int n) {
-    int i = 0;
-    int a = i;
     if(0 == n) {
         return 0;
     } else if(1 == n) {
