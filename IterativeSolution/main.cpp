@@ -19,8 +19,6 @@ int main() {
     printf("%d", fibonacci(2));
     printf("%d", fibonacci(3));
     printf("%d", fibonacci(4));
-    printf("%d", fibonacci(5));
-    printf("%d", fibonacci(6));
 
     return 0;
 }
